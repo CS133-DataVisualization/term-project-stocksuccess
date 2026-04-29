@@ -33,8 +33,8 @@ Follow these steps to set up the project locally and start working with the Jupy
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/lexinejazly-asuncion/Sign-Language-Classification.git](https://github.com/lexinejazly-asuncion/Sign-Language-Classification.git
-cd Sign-Language-Classification
+git clone https://github.com/CS133-DataVisualization/term-project-stocksuccess.git
+cd term-project-stocksuccess
 ```
 
 **2. Create a virtual environment**
@@ -66,7 +66,7 @@ jupyter notebook
 After completing the initial setup, you only need to run these commands:
 
 ```bash
-cd path/to/Sign-Language-Classification
+cd path/to/term-project-stocksuccess
 source venv/bin/activate
 jupyter notebook
 ```
